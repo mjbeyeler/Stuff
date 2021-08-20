@@ -1,2 +1,1 @@
-# helper_scripts
-A collection of general-purpose scripts I coded
+Code dump, mainly PhD stuff
