@@ -1,7 +1,7 @@
 # Author: mjbeyeler
 # Summary: PascalX-based conversion of genome position information to rsIDs
 # At the moment works with a specific dataframe, can convert into simple function to
-# inputting and outputting list
+# inputting and outputting list.
 
 from PascalX import genescorer
 import config
