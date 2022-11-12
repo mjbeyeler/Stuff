@@ -1,3 +1,4 @@
+# OLD
 # Author: Michael J. Beyeler
 # Takes any array (most often phenotypes in our case), and returns it as normally distributed based on the rank.
 # Definition of rank: The lowest original value results in the lowest rank, etc
